@@ -2,7 +2,7 @@ server {
         listen 80;
 
 
-        # for ipv6 configuration, it will be used
+        # for ipv6 configuration, it will be used.
         listen [::]:80;
         root /var/www/site1;
 
